@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-First Changing by self.
+This is an updating from fork maggieGit2
